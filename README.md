@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Arvind M 👋<br>I graduated in Computer Science Engineering from Vemana Institute of Technology. I am passionate about Full Stack Development and have a strong interest in Web Development.<br>I enjoy building modern, responsive, and user-friendly web applications while continuously learning new technologies and improving my development skills. I like solving real-world problems through technology and turning ideas into practical solutions.<br>🚀 Interests<br>Full Stack Development<br>Frontend & Backend Development<br>Web Application Development<br>Database Management<br>Learning New Technologies<br>💡 Goal<br>To grow as a developer, contribute to impactful projects, and build scalable web applications.<br><br>Code • Learn • Build • Improve
+Hi, I’m Arvind M 👋<br>I graduated in Computer Science Engineering from Vemana Institute of Technology. I am passionate about Full Stack Development and have a strong interest in Web Development.<br><br>I enjoy building modern, responsive, and user-friendly web applications while continuously learning new technologies and improving my development skills. I like solving real-world problems through technology and turning ideas into practical solutions.<br><br>🚀 Interests<br>Full Stack Development<br>Frontend & Backend Development<br>Web Application Development<br>Database Management<br>Learning New Technologies<br>💡 Goal<br><br>To grow as a developer, contribute to impactful projects, and build scalable web applications.<br><br>Code • Learn • Build • Improve
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ Hi, I’m Arvind M 👋<br>I graduated in Computer Science Engineering from Vema
 
 ---
 [![](https://komarev.com/ghpvc/?username=arvindm6361-bit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
